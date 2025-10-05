@@ -1,4 +1,15 @@
-## Hi there 👋
+# Привет, я Сергей! 👋
+
+## О себе
+- 🎓 Студент МГКЦТ
+- 💻 Изучаю Python 
+- 🌱 Сейчас я работаю над улучшением своих навыков в Git и GitHub
+
+## Мои навыки
+- Python
+- Git
+
+
 
 <!--
 **Mopsiarka/Mopsiarka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
